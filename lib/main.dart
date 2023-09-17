@@ -58,9 +58,9 @@ class MyApp extends StatelessWidget {
         bottomNavigationBar: BottomNavigationBar(
           //selected icon
           selectedIconTheme: IconThemeData(
-            color: Color.fromARGB(255, 255, 255, 255),
+            color: Color.fromARGB(255, 39, 255, 129),
           ),
-          selectedItemColor: Color.fromARGB(255, 255, 255, 255),
+          selectedItemColor: Color.fromARGB(255, 39, 255, 129),
 
           // unselected icon
           unselectedIconTheme: IconThemeData(
